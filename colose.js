@@ -22,4 +22,4 @@ function downloadVideo(uri, name) {
   link.download = name;
   link.href = uri;
   link.click();
-} 
+}
